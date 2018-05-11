@@ -1,0 +1,101 @@
+[
+    {
+        "name": "コネクト(连系)",
+        "singer": "ClariS",
+        "album": "l love zero two",
+        "time": "04:31",
+        "link_url": "./source/ClariS - コネクト (连系).mp3",
+        "cover": "./source/1.jpg",
+        "link_lrc": "./source/ClariS - コネクト (连系).txt"
+    },
+    {
+        "name": " ひらひらひらら(花瓣翩翩)",
+        "singer": "ClariS",
+        "album": "l love zero two",
+        "time": "05:12",
+        "link_url": "./source/ClariS - ひらひら ひらら (花瓣翩翩).mp3",
+        "cover": "./source/2.jpg",
+        "link_lrc": "./source/ClariS - ひらひら ひらら (花瓣翩翩).txt"
+    },
+    {
+        "name": "ヒトリゴト(自言自语)",
+        "singer": "ClariS",
+        "album": "l love zero two",
+        "time": "03:55",
+        "link_url": "./source/ClariS (クラリス) - ヒトリゴト (自言自语).mp3",
+        "cover": "./source/3.jpg",
+        "link_lrc": "./source/ClariS (クラリス) - ヒトリゴト (自言自语).txt"
+    },
+    {
+        "name": "Beautiful World",
+        "singer": "XX_me ",
+        "album": "l love zero two",
+        "time": "04:21",
+        "link_url": "./source/XX_me - Beautiful World.mp3",
+        "cover": "./source/4.jpg",
+        "link_lrc": "./source/XX_me - Beautiful World.txt"
+    },
+    {
+        "name": "トリカゴ (鸟笼)",
+        "singer": "XX_me ",
+        "album": "l love zero two",
+        "time": "03:41",
+        "link_url": "./source/XX_me - トリカゴ (鸟笼).mp3",
+        "cover": "./source/5.jpg",
+        "link_lrc": "./source/XX_me - トリカゴ (鸟笼).txt"
+    },
+    {
+        "name": "旅立ちの序曲",
+        "singer": "高梨康治",
+        "album": "l love zero two",
+        "time": "02:31",
+        "link_url": "./source/上单.mp3",
+        "cover": "./source/7.jpg",
+        "link_lrc": "./source/上单.txt"
+    },
+    {
+        "name": "ひとり",
+        "singer": "戸松遥 ",
+        "album": "l love zero two",
+        "time": "02:51",
+        "link_url": "./source/戸松遥 (とまつ はるか) - ひとり (试听版).mp3",
+        "cover": "./source/7.jpg",
+        "link_lrc": "./source/戸松遥 (とまつ はるか) - ひとり (试听版).txt"
+    },
+    {
+        "name": "IGNITE",
+        "singer": "藍井エイル",
+        "album": "l love zero two",
+        "time": "04:04",
+        "link_url": "./source/藍井エイル - IGNITE.mp3",
+        "cover": "./source/8.jpg",
+        "link_lrc": "./source/藍井エイル - IGNITE.txt"
+    },
+    {
+        "name": " INNOCENCE",
+        "singer": "藍井エイル",
+        "album": "l love zero two",
+        "time": "04:36",
+        "link_url": "./source/藍井エイル - INNOCENCE.mp3",
+        "cover": "./source/9.jpg",
+        "link_lrc": "./source/藍井エイル - INNOCENCE.txt"
+    },
+    {
+        "name": " βίος",
+        "singer": "小林未郁 (こばやし みか)",
+        "album": "l love zero two",
+        "time": "04:33",
+        "link_url": "./source/小林未郁 (こばやし みか) - βίος.mp3",
+        "cover": "./source/10.jpg",
+        "link_lrc": "./source/小林未郁 (こばやし みか) - βίος.txt"
+    },
+    {
+        "name": "KISS OF DEATH",
+        "singer": "中島美嘉",
+        "album": "l love zero two",
+        "time": "02:31",
+        "link_url": "./source/中島美嘉 - KISS OF DEATH (Produced by HYDE).mp3",
+        "cover": "./source/11.png",
+        "link_lrc": "./source/中島美嘉 - KISS OF DEATH (Produced by HYDE).txt"
+    }
+]
